@@ -7,35 +7,40 @@ Agus Tini Sridewi / 2306276004 / ADPRO A
 ##  Via GUI
 ### Test Plan 1 (Endpoint /all-student)
 Before ⤵️
-
+<img width="1470" alt="all student request (before)" src="https://github.com/user-attachments/assets/ca06fa0b-aa95-40e6-98da-28f8e44b743f" />
 After ⤵️
+<img width="1470" alt="all student request (after)" src="https://github.com/user-attachments/assets/ca5b26e2-2983-46b7-9158-86621b5ebe62" />
 
 ### Test Plan 2 (Endpoint /all-student-name)
 Before ⤵️
-
+<img width="1470" alt="all student name (before)" src="https://github.com/user-attachments/assets/17a51355-88ef-4ff2-b14b-33f857c4a493" />
 After ⤵️
+<img width="1470" alt="all student name (after)" src="https://github.com/user-attachments/assets/61f90b77-6905-48e1-aea1-860b810948fe" />
 
 ### Test Plan 3 (Endpoint /highest-gpa)
 Before ⤵️
-
+<img width="1470" alt="highest gpa (before)" src="https://github.com/user-attachments/assets/a7572fc3-fb80-41b5-9a63-7d3cdb1e065e" />
 After ⤵️
+<img width="1470" alt="highest gpa (after)" src="https://github.com/user-attachments/assets/3bb11bee-5108-40ae-9bca-c15205f88b21" />
 
 ## Via CLI
 ### Test Plan 1 (Endpoint /all-student)
 Before ⤵️
-
+<img width="1213" alt="all student request terminal (before)" src="https://github.com/user-attachments/assets/60d20435-4ae8-4c81-887d-5bb66443a067" />
 After ⤵️
+<img width="1151" alt="all student request terminal (after)" src="https://github.com/user-attachments/assets/893372ad-4c75-44bc-ac67-45fe6611826a" />
 
 ### Test Plan 2 (Endpoint /all-student-name)
 Before ⤵️
-
+<img width="1215" alt="all student name terminal (before)" src="https://github.com/user-attachments/assets/97014991-1d83-473b-ab32-131781dcf586" />
 After ⤵️
+<img width="1135" alt="all student name terminal (after)" src="https://github.com/user-attachments/assets/afff7e2d-6bce-41a7-a14f-632cb585a9d2" />
 
 ### Test Plan 3 (Endpoint /highest-gpa)
 Before ⤵️
-
+<img width="1214" alt="highest gpa terminal (before)" src="https://github.com/user-attachments/assets/cb7407dc-f6ca-484e-b1b2-79ec4decaae1" />
 After ⤵️
-
+<img width="1129" alt="highest gpa terminal (after)" src="https://github.com/user-attachments/assets/1ed3dda7-82ab-455a-a988-ec5eed40c2ea" />
 
 ### Conclusion
 - Endpoint: `all-student`
